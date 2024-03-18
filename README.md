@@ -24,8 +24,11 @@ This project is a chat application developed using Firebase. Users can sign in w
 
 **Firebase Cloud Functions:** Can be used for custom operations or backend logic as needed.
 
-## How to Run
+## Live
 
-1. Download or clone the project files to your computer.
-2. Configure your Firebase project settings in the firebase/config.js file.
-3. To run the project locally, open a terminal, run npm install, and then start the project with npm start.
+https://chat-room-firebase.vercel.app/
+
+## Screen Gif
+
+
+
